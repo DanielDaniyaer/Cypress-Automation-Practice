@@ -1,5 +1,5 @@
 # Cypress-Automation-Project&Practice
-My_Cypress_Automation
+My_Cypress_Automation_Project&Practice
 
 by Dilimulati Daniyaer ( Daniel )
 
