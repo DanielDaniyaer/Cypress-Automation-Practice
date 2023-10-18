@@ -1,4 +1,4 @@
-# Cypress-Automation-Practice
+# Cypress-Automation-Project&Practice
 My_Cypress_Automation
 
 by Dilimulati Daniyaer ( Daniel )
